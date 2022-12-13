@@ -16,9 +16,9 @@ Isabela Larissa Corrêa Carvalho participou das reuniões, contribuiu com ideias
 
 Gestão de Marketing:
 
-Dayane Silva de Jesus responsável por apresentar o projeto;
+Dayane Silva de Jesus responsável por apresentar o projeto na categoria de marketing;
 
-Franciely Pires Belfort responsável por apresentar a parte do marketing no projeto.
+Franciely Pires Belfort responsável por apresentar o projeto na categoria de marketing.
 
 ## Pitch da equipe avalanche verde
 
