@@ -1,8 +1,20 @@
-# Projeto de Inovação (Inovatec 2022)
+# Integrantes e suas funções no projeto de inovação (Inovatec 2022)
 
-## Integrantes 
+Gestão Executiva:
 
-Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
+Júlia Cristy responsável Pela pesquisa do projeto, criação dos slides e construção do folheto de marketing;
+
+Larissa da Silva responsável por apresentar o projeto na feira de inovação.
+
+Gestão Operacional:
+
+Luana Rodrigues responsável por criar as interfaces do aplicativo e prototipar;
+
+Franquislaine Reis Responsável por apresentar o aplicativo na feira de inovação.
+
+Gestão de Marketing:
+
+xxxx
 
 ## Passos
 
@@ -15,6 +27,14 @@ Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto
 
 ## Pitch
 
-Descrição do Pitch (quem vai falar o que na apresentação, ordem da apresentação etc). Nesse sentido, um vídeo de Pitch pode ser criado e disponibilizado aqui (através de um link), facilitando o entendimento/compartilhamento do seu projeto de inovação. 
+Quem vai falar sobre o tema do projeto:
 
-Por fim, links de slides e materiais complementares (que podem apoiar o entendimento do projeto de inovação) também podem ser disponibilizados nesta seção.
+- Larissa da Silva(1º pessoa a falar)
+
+- Slide para a apresentação do projeto ---> [Visualizar slide](https://docs.google.com/presentation/d/1tTmKsZliQ9Y01xB-288Y05aQewid2AijS89xZhno1cM/edit?usp=sharing).
+
+Quem vai falar sobre o aplicativo do projeto:
+
+- Franquislaine Reis(2º pessoa a falar)
+
+- Protótipo ---> [Visualizar protótipo](https://www.figma.com/proto/Kmopgey9w8H474HmgE8w17/Interface-mobile?page-id=0%3A1&node-id=1%3A2&viewport=119%2C284%2C0.52&scaling=scale-down&starting-point-node-id=1%3A179).
