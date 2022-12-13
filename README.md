@@ -20,7 +20,7 @@ Dayane Silva de Jesus responsável por apresentar o projeto;
 
 Franciely Pires Belfort responsável por apresentar a parte do marketing no projeto.
 
-## Pitch
+## Pitch da equipe avalanche verde
 
 Quem vai falar sobre o tema do projeto:
 
