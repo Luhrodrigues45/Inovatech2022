@@ -45,4 +45,4 @@ Quem vai falar sobre o marketing:
 
 Arquivos:
 - Slide para a apresentação do projeto ---> [Visualizar slide](https://docs.google.com/presentation/d/1tTmKsZliQ9Y01xB-288Y05aQewid2AijS89xZhno1cM/edit?usp=sharing).
-- Protótipo ---> [Visualizar protótipo](https://www.figma.com/proto/Kmopgey9w8H474HmgE8w17/Interface-mobile?page-id=0%3A1&node-id=1%3A2&viewport=119%2C284%2C0.52&scaling=scale-down&starting-point-node-id=1%3A179).
+- Protótipo do aplicativo ---> [Visualizar protótipo](https://www.figma.com/proto/Kmopgey9w8H474HmgE8w17/Interface-mobile?page-id=0%3A1&node-id=1%3A2&viewport=119%2C284%2C0.52&scaling=scale-down&starting-point-node-id=1%3A179).
