@@ -2,15 +2,15 @@
 
 Gestão Executiva:
 
-Júlia Cristy responsável Pela pesquisa do projeto, criação dos slides e construção do folheto de marketing;
+Júlia Cristy foi responsável Pela pesquisa do projeto, criação dos slides e construção do folheto de marketing;
 
-Larissa da Silva responsável por apresentar o projeto na feira de inovação.
+Larissa da Silva ficou responsável por apresentar o projeto na feira de inovação.
 
 Gestão Operacional:
 
-Luana Rodrigues responsável por criar as interfaces do aplicativo e prototipar;
+Luana Rodrigues foi a responsável por criar as interfaces do aplicativo e prototipa-las, mas também criou o logotipo Recicla+;
 
-Franquislaine Reis Responsável por apresentar o aplicativo na feira de inovação.
+Franquislaine Reis é responsável por apresentar o aplicativo na feira de inovação.
 
 Gestão de Marketing:
 
