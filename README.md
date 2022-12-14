@@ -31,10 +31,11 @@ Quem vai falar sobre o tema do projeto:
 Quem vai falar sobre o aplicativo do projeto:
 
 - Franquislaine Reis(2º pessoa a falar)
+- Carlos Eduardo Duarte Baptista(3° pessoa a falar)
 
 Quem vai falar sobre o marketing:
-- Franciely Pires Belfort(3º pessoa a falar)
-- Dayane Silva de Jesus(4º pessoa a falar)
+- Franciely Pires Belfort(4° pessoa a falar)
+- Dayane Silva de Jesus(5° pessoa a falar)
 
 Arquivos:
 - Slide para a apresentação do projeto ---> [Visualizar slide](https://docs.google.com/presentation/d/1hMfXuzxO6RZ2rq7b7eQ03l8zOXl0-EUF/edit?usp=sharing&ouid=105107423114662365020&rtpof=true&sd=true).
