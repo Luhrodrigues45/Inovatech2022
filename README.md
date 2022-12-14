@@ -14,6 +14,8 @@ Franquislaine Reis Pereira Cunha é responsável por apresentar o aplicativo na 
 
 Isabela Larissa Corrêa Carvalho participou das reuniões, contribuiu com ideias para esse projeto.
 
+Carlos Eduardo Duarte Baptista responsável por apresentar a interface do aplicativo.
+
 Gestão de Marketing:
 
 Dayane Silva de Jesus responsável por apresentar o projeto na categoria de marketing;
